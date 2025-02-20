@@ -1,0 +1,19 @@
+{
+  "name": "platzi-puppeter-qa",
+  "version": "1.0.0",
+  "description": "Curso de Platzi de Puppter de QA basico",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit" 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^24.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.1"
+  }
+}
